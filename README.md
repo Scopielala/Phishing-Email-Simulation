@@ -31,3 +31,6 @@ Understood how effective training and simulation can empower users to resist cyb
 Disclaimer
 
 This project is strictly for educational and awareness purposes. It does not involve real phishing or any unauthorized activity. It was conducted in a controlled, ethical environment.
+
+
+# Added project overview and details for phishing simulation.
